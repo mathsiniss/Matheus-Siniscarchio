@@ -56,8 +56,6 @@ Cada nó corresponde a uma linha da matriz
  $$ H^{(t)} = \sigma \left ( (A+I) H^{(t-1)}W^{t} \right )$$
  Adicionando a matriz de identidade adicionamos o self-loop
  
- pg 87
-
 # Generalização da agregação dos vizinhos
 Até agora estamos somando todos os vizinhos, entretanto, existem outras maneiras mais eficientes para agregar os nós vizinhos e para a operação update
 
