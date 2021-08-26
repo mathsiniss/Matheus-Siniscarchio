@@ -1,1 +1,1 @@
-[GCN](./GCN.md)
+[GCN](./Estudo/GCN.md)

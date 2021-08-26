@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudo/GCN.md",
+            "file": "Estudo.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudo/GCN.md",
+                "file": "Estudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "f561f1d7810b3ec9",
   "lastOpenFiles": [
-    "Estudo/GCN.md",
     "Estudo.md",
     "README.md",
     "Estudo/index.md",
+    "Estudo/GCN.md",
     "Untitled.md",
     "Projetos/index.md",
     "Estudo/img/Pasted image 20210809115658.png",
