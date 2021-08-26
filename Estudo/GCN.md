@@ -8,6 +8,9 @@ Invariância de permutação significa que a função não depende da ordem das 
 # VISÃO GERAL DA ESTRUTURA DE PASSAGEM DE MENSAGEM
 Seja um grafo $G = (V,E)$ juntamente com um conjunto de features dos nós $X \in R^{d x |V|}$ 
 Durante cada iteração de passagem de mensagem em um GNN, uma hidden embedding $h_u^{(k)}$, para a cada nó $u \in V$, é atualizado de acordo com as informações agregadas da vizinhança do grafo $N(u)$. Esta atualização de transmissão de mensagens pode ser expressa da seguinte forma:
+
+<img src="https://render.githubusercontent.com/render/math?math=\large h_u^{(k+1)} = UPDATE^{(k)} \left ( h_u^{(k)}, AGGREGATE^{(k)}(\{h_v^{(k)}, \forall v \in N(u)\} \right )">
+
 $$\large h_u^{(k+1)} = UPDATE^{(k)} \left ( h_u^{(k)}, AGGREGATE^{(k)}(\{h_v^{(k)}, \forall v \in N(u)\} \right )$$
 $$\large h_u^{(k+1)} = UPDATE^{(k)} \left ( h_u^{(k)}, m^{(k)}_{N(u)} \right )$$
 
