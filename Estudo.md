@@ -1,1 +1,1 @@
-[GCN](https://github.com/mathsinis/Matheus-Siniscarchio/blob/main/Estudo/GCN.md))
+[GCN](./GCN.md)

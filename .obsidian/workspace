@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudo.md",
+            "file": "Estudo/GCN.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudo.md",
+                "file": "Estudo/GCN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "f561f1d7810b3ec9",
   "lastOpenFiles": [
-    "Estudo.md",
     "Estudo/GCN.md",
+    "Estudo.md",
     "README.md",
     "Estudo/index.md",
     "Untitled.md",
