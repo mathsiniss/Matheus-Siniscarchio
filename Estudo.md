@@ -1,6 +1,1 @@
----
-title: PAGE TITLE HERE
-layout: template
-filename: Estudo.md
----
-[GCN](.\Estudo\GCN.md)
+[GCN](https://github.com/mathsinis/Matheus-Siniscarchio/blob/main/Estudo/GCN.md))
