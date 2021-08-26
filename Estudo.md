@@ -1,6 +1,6 @@
 ---
 title: PAGE TITLE HERE
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: Estudo.md
 ---
-[GCN](GCN.md)
+[GCN](.\Estudo\GCN.md)
